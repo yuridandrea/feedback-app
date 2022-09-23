@@ -12,7 +12,7 @@ function Card({children, reverse}) {
 }
 
 Card.defaultProps = {
-  reverse: true,
+  reverse: false,
 }
 
 //add details to the passed props
